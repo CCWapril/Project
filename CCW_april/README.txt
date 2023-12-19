@@ -11,4 +11,4 @@ Study nodes of Statistic and Machine Learning
 4.Folder description:
 Machine Learning--机器学习代码与数据
 Pachong--爬虫代码与数据
-Statistics Data Analysis--统计数据分析SDA作业与数据
+Statistics Data Analysis--统计数据分析SDA算法
