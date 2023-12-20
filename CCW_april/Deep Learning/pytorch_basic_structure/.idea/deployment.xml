@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="yinghao@121.43.100.72:6006" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="yinghao@121.43.100.72:6006">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/yinghao/pytorch_basic_structure" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="yinghao@121.43.100.72:6006 (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
